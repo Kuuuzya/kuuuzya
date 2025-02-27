@@ -25,14 +25,6 @@ Hello! 👋 Welcome to my repositories! Here, I share my projects, ideas, and de
 
 ---
 
-## 🚀 Commit Progress
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuuuzya&theme=tokyonight" alt="Commits" />
-</div>
-
----
-
 ## 📊 Activity Graph
 
 <div align="center">
