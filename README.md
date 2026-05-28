@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kuuuzya+%F0%9F%91%8B;Tech+%26+Gaming+Media+Editor;WordPress+%2B+Server+Whisperer;PHP+%7C+Python+%7C+MySQL+%7C+TS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sergey+%F0%9F%91%8B;Tech+%26+Gaming+Media+Editor;WordPress+%2B+Server+Whisperer;PHP+%7C+Python+%7C+MySQL+%7C+TS)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Kuuuzya&color=00d9ff&style=flat-square&label=profile+views" alt="Profile Views" />
 
